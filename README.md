@@ -15,3 +15,5 @@ and performed data cleaning and EDA on it
 then divided the dataset as training and testing data 
 and trained the data using different models 
 and the output is launched using gradio
+
+and for webdevelopment basic i have also created the webpage using flask 
